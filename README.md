@@ -1,1 +1,1 @@
-Bulk renamer helps to  rename all the folders name with your given name at one time.
+Bulk renamer helps to  rename all the files name in particular folder with your given name at one time.
